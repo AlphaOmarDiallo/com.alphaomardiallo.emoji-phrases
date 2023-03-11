@@ -1,0 +1,1 @@
+rootProject.name = "com.alphaomardiallo.emoji-phrases"
